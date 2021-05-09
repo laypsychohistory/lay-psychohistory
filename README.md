@@ -9,8 +9,8 @@ The typical psychohistorical theory speaks about history and psychology in detai
 The aim of this website, in its broadest sense, is to make any aspect of psychohistory more accessible. To that end, several projects, each ranging in complexity and detail, are being maintained:
 1. Introduction to Psychohistory
 2. Lay Summaries
-* academic paper #1
-* academic paper #2
+	* academic paper #1
+	* academic paper #2
 
 4. Detailed Summary #1: *White Racism*, by Dr. Joel Kovel (1974)
 	* video series explaining each chapter
