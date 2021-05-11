@@ -17,7 +17,7 @@ Symbols which have a clear link with anality and fantasies of dirt, a review of 
 
 **Well-Grounded**
 |Symbol|Category|Anal Characteristics|
-|-|-|-|
+|---|---|---|
 |Billiards (pool)|Games|Round balls, white cue, black 8, pockets|
 |Brussel sprouts, spinach|Food|Dark, sloppy|
 |Chess|Games|Black/white, exchange, capture, small pieces|
@@ -30,6 +30,6 @@ Symbols which have a clear link with anality and fantasies of dirt, a review of 
 
 **More Speculative**
 |Symbol|Category|Anal Characteristics|
-|-|-|-|
+|---|---|---|
 |iPhone vs Android; PC vs xBox ("PC Master _Race_")|Technology|High-class, expensive iPhone vs older, Dell-esque Android|
 |"Made in China"|||
