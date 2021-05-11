@@ -16,8 +16,9 @@ If there is enough interest in this catalog of symbols, a top priority for a fut
 Symbols which have a clear link with anality and fantasies of dirt, a review of which can be found [here]()
 
 **Well-Grounded**
+
 |Symbol|Category|Anal Characteristics|
-|---|---|---|
+| ----- | ----- | ----- |
 |Billiards (pool)|Games|Round balls, white cue, black 8, pockets|
 |Brussel sprouts, spinach|Food|Dark, sloppy|
 |Chess|Games|Black/white, exchange, capture, small pieces|
@@ -29,6 +30,7 @@ Symbols which have a clear link with anality and fantasies of dirt, a review of 
 |Toilet paper during COVID|Corporeal|Given the presence of COVID, which, being a disease, symbolizes dirt, people seeked refuge by taking _control_ through the act of _buying_ of the first dirty process: defecating.|
 
 **More Speculative**
+
 |Symbol|Category|Anal Characteristics|
 |---|---|---|
 |iPhone vs Android; PC vs xBox ("PC Master _Race_")|Technology|High-class, expensive iPhone vs older, Dell-esque Android|
